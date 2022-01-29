@@ -1,0 +1,16 @@
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\bin\Debug\netcoreapp3.1\Шахматы.exe
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\bin\Debug\netcoreapp3.1\Шахматы.deps.json
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\bin\Debug\netcoreapp3.1\Шахматы.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\bin\Debug\netcoreapp3.1\Шахматы.runtimeconfig.dev.json
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\bin\Debug\netcoreapp3.1\Шахматы.dll
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\bin\Debug\netcoreapp3.1\Шахматы.pdb
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.Form1.resources
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.dll
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.pdb
+C:\Users\Aleksandr\source\repos\Шахматы\Шахматы\obj\Debug\netcoreapp3.1\Шахматы.genruntimeconfig.cache
